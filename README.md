@@ -8,12 +8,12 @@ A Blog preview card based basic HTML and CSS
 
 This component is designed to provide a visually appealing and informative preview of blog articles, with a focus on learning and engagement.
 
-# Features:
+## Features:
 
     - Responsive design for various screen sizes
     - Interactive hover effect on title
     - Clear and concise display of article information
-# Usage:
+## Usage:
 
 Simply copy and paste the HTML and CSS code into your project to use this component. Customize as needed to fit your blog's style and branding.
 
@@ -21,7 +21,7 @@ Simply copy and paste the HTML and CSS code into your project to use this compon
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Blod preview card](https://blog-preview-card-100.netlify.app/)
 
 
 ### Built with
@@ -34,7 +34,7 @@ Simply copy and paste the HTML and CSS code into your project to use this compon
 
 ## Author
 
-- Frontend Mentor - [@kingsley2o18](https://www.frontendmentor.io/profile/kingsley2o18)
+- Frontend Mentor - [@kingsley](https://www.frontendmentor.io/profile/kingsley2o18)
 
 
 ## Acknowledgments
